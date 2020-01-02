@@ -20,11 +20,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imsubhra/weather-web.git"
+    "url": "git+https://github.com/imsubhra/subhra-weather-application.git"
   },
   "bugs": {
-    "url": "https://github.com/imsubhra/weather-web/issues"
+    "url": "https://github.com/imsubhra/subhra-weather-application/issues"
   },
-  "homepage": "https://github.com/imsubhra/weather-web#readme",
+  "homepage": "https://github.com/imsubhra/subhra-weather-application#readme",
   "description": ""
 }
